@@ -1,0 +1,26 @@
+html, body, #root {
+    scroll-behavior: smooth;
+    height: 100%;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+
+}
+
+.wrapper {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    background-image: url("../../background.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+}
+
+
+
+
+
+
