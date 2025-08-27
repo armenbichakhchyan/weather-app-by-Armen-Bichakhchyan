@@ -12,9 +12,9 @@ A simple full-stack application that shows the current weather for any city.
    ```bash
    npm install
    npm run dev
-    By default, the frontend will run at http://localhost:5173 
+By default, the frontend will run at http://localhost:5173 
 
-   Backend Setup
+Backend Setup
 
 Navigate to the backend folder:
 
